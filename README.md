@@ -1,4 +1,4 @@
-# 🧒 About Me:
+# ✌️ About Me:
 🔭 I'm currently working at CITi-UFPE as a Fullstack Developer, using TypeScript and React to build solid applications for web and mobile.<br>🌱 I'm currently learning TypeScript and React.<br>⚡ A fun fact about me is that in the past, I wanted to be a professional swimmer 🏊🏼‍♂️.
 
 
