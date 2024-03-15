@@ -1,5 +1,5 @@
 # ✌️ About Me:
-🔭 I'm currently working at V-LAB-UFPE as a Fullstack Developer, using TypeScript and React to build solid applications for web and mobile.<br>🌱 I'm currently learning Tailwind CSS.<br>⚡ A fun fact about me is that in the past, I wanted to be a professional swimmer 🏊🏼‍♂️.
+🔭 I'm currently working at V-LAB-UFPE as a Fullstack Developer, using JS and React to build solid applications for web.<br>🌱 I'm currently learning Tailwind CSS.<br>⚡ A fun fact about me is that in the past, I wanted to be a professional swimmer 🏊🏼‍♂️.
 
 
 ## 🌐 Socials:
