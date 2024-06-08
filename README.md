@@ -35,6 +35,6 @@
 ![Docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ftm2-cin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=felipetmacedo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <!---->
