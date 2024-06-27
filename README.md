@@ -13,8 +13,6 @@
 ![React](https://img.shields.io/badge/-React-64DAFB?style=for-the-badge&logo=react&logoColor=333333)
 ![React Native](https://img.shields.io/badge/-React%20Native-64DAFB?style=for-the-badge&logo=react&logoColor=333333)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Back-End
 
