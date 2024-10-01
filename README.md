@@ -1,4 +1,4 @@
-# ✌️ About Me:
+# About Me:
 🔭 I'm currently working as a Fullstack Developer, using Javascript to build solid applications for web.<br>⚡ A fun fact about me is that in the past, I wanted to be a professional swimmer 🏊🏼‍♂️.
 
 
