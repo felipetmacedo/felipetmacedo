@@ -8,14 +8,10 @@ Hi! I'm Felipe Torres, a passionate Fullstack Software Engineer from Brazil. I'v
 
 ⚡ Fun fact: I once dreamt of being a professional swimmer! 🏊🏼‍♂️
 
----
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-torres-334642236/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipetorresm_)
-
----
 
 ## 💼 Featured Projects
 
@@ -23,8 +19,6 @@ Hi! I'm Felipe Torres, a passionate Fullstack Software Engineer from Brazil. I'v
 - **[Jorbz](https://jorbz.com.br/)** – Gamified hiring and upskilling platform for young talents.
 - **[Go Message](https://github.com/felipetmacedo/go-messenger-api)** – Real-time chat built with Golang and WebSockets.
 - **[CoTeachAI](https://app.coteachai.com/login)** – An AI-powered tool suite to support educators.
-
----
 
 ## 💻 Tech Stack
 
@@ -60,8 +54,6 @@ Hi! I'm Felipe Torres, a passionate Fullstack Software Engineer from Brazil. I'v
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
 
 ## 🧠 Interests
 
